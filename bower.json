@@ -1,0 +1,22 @@
+{
+  "name": "belt_exam",
+  "homepage": "https://github.com/tkfowler/MEAN-stack",
+  "authors": [
+    "Thomas Fowler <tkfowler13@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "angular-moment": "^1.0.1"
+  }
+}
